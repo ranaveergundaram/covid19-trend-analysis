@@ -1,2 +1,61 @@
-# covid19-trend-analysis
-COVID-19 Virus Trend Analysis analyzes global and country-level COVID-19 case trends using real-world data from the Johns Hopkins University repository. The project involves data cleaning, preprocessing, time-series analysis, and visual comparison across multiple countries using Python, Pandas, Matplotlib, and Seaborn.
+# COVID-19 Trend Analysis
+
+## 📌 Project Overview
+This project analyzes and visualizes COVID-19 case trends at both global and country levels using real-world data. The analysis helps understand how COVID-19 cases evolved over time and compares growth patterns across multiple countries.
+
+The dataset used in this project is sourced from the Johns Hopkins University COVID-19 repository, which is a widely trusted and reliable public data source.
+
+---
+
+## 🎯 Objectives
+- Analyze COVID-19 case trends over time
+- Perform country-wise and comparative analysis
+- Visualize trends using clear and informative plots
+- Extract insights from real-world time-series data
+
+---
+
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
+
+---
+
+## 📊 Dataset
+- **Source:** Johns Hopkins University COVID-19 Data Repository  
+- **Type:** Time-series data of confirmed COVID-19 cases  
+- **Format:** CSV (wide format converted to time-series format)
+
+---
+
+## 🔄 Methodology
+1. Loaded COVID-19 data using Pandas
+2. Cleaned and preprocessed the dataset
+3. Converted wide-format data into time-series format
+4. Aggregated state-level data into country-level totals
+5. Analyzed trends for individual countries
+6. Compared trends across multiple countries
+7. Visualized results using line plots
+
+---
+
+## 📈 Visualizations
+- Line plots showing COVID-19 trends over time
+- Comparative plots for multiple countries on the same graph
+
+---
+
+## 🔍 Key Insights
+- Different countries experienced peak COVID-19 growth at different times
+- Growth patterns varied significantly across regions
+- Seasonal and external factors influenced case trends
+
+---
+
+## ▶️ How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/covid19-trend-analysis.git

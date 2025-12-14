@@ -13,8 +13,7 @@ One key insight from the analysis was that different countries experienced peak 
 
 
 
-
-
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/30dade09-84ea-4e84-8aeb-3b6d1f0e5a77" />
 
 
 

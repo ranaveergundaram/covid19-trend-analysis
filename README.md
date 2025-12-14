@@ -1,3 +1,25 @@
+
+
+This project, COVID-19 Virus Trend Analysis, focuses on analyzing and visualizing COVID-19 case trends at both global and country levels using real-world data.
+I used the Johns Hopkins University COVID-19 dataset, which is a widely trusted and reliable source.
+First, I collected the dataset and loaded it using Python libraries like Pandas. Then I cleaned and preprocessed the data to make it suitable for analysis.
+After preprocessing, I analyzed trends for a specific country and also compared COVID-19 trends across multiple countries. Using Matplotlib and Seaborn, I plotted multiple countries on the same graph, which made it easy to compare growth patterns.
+One key insight from the analysis was that different countries experienced peak growth at different times, and seasonal changes also had a significant impact on the trends.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # COVID-19 Trend Analysis
 
 ## 📌 Project Overview
